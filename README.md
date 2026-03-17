@@ -121,3 +121,8 @@ npm run dev
 - 🛡️ Fraud detection  
 
 ---
+
+Created By 
+Team CodeSyn
+-Kenith Karas
+-Jay Patil
