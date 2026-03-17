@@ -6,7 +6,7 @@ The platform operates on a 💰 credit-based economy, allowing controlled and st
 
 With a modern UI 🎨, smooth animations, and scalable architecture, BidForge focuses on performance, usability, and intelligent decision-making, making it a complete solution for next-generation digital auction systems.
 
-<hr>
+<hr style="border:0.5px solid #444;">
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-00BFA6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com)
 
@@ -14,17 +14,13 @@ With a modern UI 🎨, smooth animations, and scalable architecture, BidForge fo
 
 ✨ Key Features
 🔴 Real-time bidding using WebSockets
-
 💰 Credit-based bidding system
-
 ⚡ Instant bid updates without refresh
-
 🤖 AI-powered item descriptions
-
 📊 Smart bid suggestions for users
-
 🎨 Modern responsive UI with smooth animations
 
+<hr style="border:0.5px solid #444;">
 🛠️ Tech Stack
 🎨 Frontend:-
 ⚛️ React
@@ -42,6 +38,7 @@ With a modern UI 🎨, smooth animations, and scalable architecture, BidForge fo
 🤖 AI Integration:-
 🧠 Google Gemini API
 
+<hr style="border:0.5px solid #444;">
 ⚙️ Setup Instructions
 1️⃣ Database Setup (Supabase)
 🌐 Create a new project on https://supabase.com/
@@ -61,6 +58,7 @@ GEMINI_API_KEY=your_gemini_api_key
 npm install
 4️⃣ Run the Application
 npm run dev
+<hr style="border:0.5px solid #444;">
 🤖 AI Features
 👨‍💼 Admin Side
 
@@ -71,35 +69,25 @@ Automatically creates professional item descriptions using Gemini API
 
 📊 Smart Bid Suggestions
 Recommends optimal bid values based on current auction activity
-
+<hr style="border:0.5px solid #444;">
 🔄 Real-Time Bidding Logic
-
 BidForge uses 🔌 Socket.io for real-time communication.
-
 When a user places a bid:
-
 📡 The server broadcasts the update instantly
-
 👥 All connected users see the updated price live
-
 🔄 No page refresh required
 
+<hr style="border:0.5px solid #444;">
 🎯 Project Objective
-
 To build a scalable, real-time auction system that combines:
-
 🔴 Live interaction
-
 🤖 Intelligent bidding assistance
-
 ⚡ Seamless user experience
 
+<hr style="border:0.5px solid #444;">
 🚀 Future Enhancements
-
 💳 Payment gateway integration
-
 📈 Advanced AI analytics for bidding trends
-
 📱 Mobile app version
 
 🛡️ Fraud detection system
