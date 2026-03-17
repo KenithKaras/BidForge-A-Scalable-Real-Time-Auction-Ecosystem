@@ -1,6 +1,6 @@
 # 🚀 BidForge – Real-Time Auction Platform
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-00BFA6?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-link.com](https://bid-forge-a-scalable-real-time-auct.vercel.app/))
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-00BFA6?style=for-the-badge&logo=vercel&logoColor=white)](https://bid-forge-a-scalable-real-time-auct.vercel.app/)
 
 ---
 
